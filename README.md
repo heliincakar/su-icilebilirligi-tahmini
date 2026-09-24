@@ -5,7 +5,7 @@ Bu projede suya ait fizikokimyasal ölçümler kullanılarak örneklerin içileb
 ## Dosyalar
 
 - `su_kalitesi.ipynb`: Veri hazırlama, görselleştirme ve model karşılaştırma adımları.
-- `su_icilebilirligi_raporu.docx`: Notebook sonuçlarına göre güncellenen proje raporu.
+- `su_icilebilirligi_raporu.pdf`: Notebook sonuçlarına göre güncellenen proje raporu.
 
 ## Kullanım
 
